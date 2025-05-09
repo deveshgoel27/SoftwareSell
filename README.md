@@ -65,7 +65,7 @@ SoftSell is a modern, responsive landing page designed for a platform that allow
 
 ## 📷 Preview
 
-
+https://github.com/deveshgoel27/SoftwareSell/blob/fe49d6851ceb68ed141b69e989197cbb5e62bb30/SoftSell.png
 
 ---
 
