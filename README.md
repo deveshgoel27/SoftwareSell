@@ -63,6 +63,12 @@ SoftSell is a modern, responsive landing page designed for a platform that allow
 
 ---
 
+## 📷 Preview
+
+
+
+---
+
 ## 📄 License
 
 MIT License. Free to use and modify.
